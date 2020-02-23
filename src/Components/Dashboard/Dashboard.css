@@ -1,0 +1,26 @@
+.table_cont,
+.controls {
+    width: 75% !important;
+    margin: 0 auto;
+}
+
+.controls {
+    text-align: right;
+}
+
+.controls > svg {
+    margin: 10px 20px;
+    font-size: 20px;
+    color: #969696;
+    cursor: pointer;
+}
+
+.dashboard_cont .active#demo,
+.dashboard_cont .MuiPaper-root.active {
+    display: block;
+}
+
+.dashboard_cont #demo,
+.dashboard_cont .MuiPaper-root {
+    display: none;
+}

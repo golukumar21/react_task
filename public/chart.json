@@ -1,0 +1,23 @@
+[
+    {
+        "name": "Ins_ID",
+        "data": [
+            {
+                "name": "DOM",
+                "y": 20
+            },
+            {
+                "name": "DOW",
+                "y": 34
+            },
+            {
+                "name": "Hours",
+                "y": 30
+            },
+            {
+                "name": "Sum Hourly",
+                "y": 16
+            }
+        ]
+    }
+]
