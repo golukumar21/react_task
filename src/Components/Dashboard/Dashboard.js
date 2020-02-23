@@ -47,7 +47,7 @@ class Dashboard extends React.Component {
     render() {
         return (
             <div className="dashboard_cont">
-                <h1>Welcome to Dashbaord!</h1>
+                <h1>Welcome to Dashboard!</h1>
                 <div className="controls">
                     <FontAwesomeIcon icon={faTable} title="Chart View" onClick={this.toggleTable} />
                     <FontAwesomeIcon icon={faChartPie} title="Table View" onClick={this.toggleChart} />
